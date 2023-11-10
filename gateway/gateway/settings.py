@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'revproxy',
+
+    'gateway_app',
 ]
 
 MIDDLEWARE = [
